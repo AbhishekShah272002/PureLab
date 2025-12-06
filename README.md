@@ -45,8 +45,8 @@ To run this project, you need a Google Gemini API Key.
 
 This application relies on Artificial Intelligence to analyze text and images. While it is designed to be helpful, **it is not a substitute for medical advice or manual verification**. Always read the physical product label yourself, especially if you have severe life-threatening allergies.
 
-## 📄 License
+#
 
-MIT
+
 <img width="1268" height="525" alt="Screenshot 2025-12-06 174730" src="https://github.com/user-attachments/assets/85d8f019-2b5d-4e4c-b03d-4decbafdfd1b" />
 
