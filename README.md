@@ -1,6 +1,6 @@
 # PureLabel - Ingredient Decoder 🥗🔍
 
-You can also try it by clicking the link.
+You can also try it by clicking the link.  👇
 
 https://purelabel-ingredient-decoder-979286192946.us-west1.run.app/
 
