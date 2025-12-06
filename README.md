@@ -6,7 +6,7 @@ https://purelabel-ingredient-decoder-979286192946.us-west1.run.app/
 
 PureLabel is an intelligent food analysis assistant powered by **Google Gemini AI**. It helps users instantly decode complex product labels, verify vegan suitability, identify specific allergens (including custom user-defined ones), and understand technical chemical additives in simple terms.
 
-![PureLabel App Screenshot](https://via.placeholder.com/800x450?text=PureLabel+App+Preview)
+
 
 ## 🚀 Features
 
