@@ -48,3 +48,5 @@ This application relies on Artificial Intelligence to analyze text and images. W
 ## 📄 License
 
 MIT
+<img width="1268" height="525" alt="Screenshot 2025-12-06 174730" src="https://github.com/user-attachments/assets/85d8f019-2b5d-4e4c-b03d-4decbafdfd1b" />
+
