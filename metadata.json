@@ -1,0 +1,7 @@
+{
+  "name": "PureLabel - Ingredient Decoder",
+  "description": "An intelligent assistant that decodes food and product labels. It identifies allergens, verifies vegan suitability, and explains complex technical ingredients in simple terms using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
